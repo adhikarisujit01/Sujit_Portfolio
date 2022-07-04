@@ -20,6 +20,8 @@ Data Science Projects Portfolio
   - Built a Power BI dashboard to present the Bay Area Housing Market Situation and possible future downsides
   - Performed trend analysis to compare and analyze the housing market during 2008 crash and 2020 market imbalance
   - Concluded that with the possible fed interest rate rising in late 2021 or early 2022, the demand for Bay Area Housing will eventually decrease, however, this would       also take some number of years to bring the prices to a market equilibrium point.
+  
+  ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/housing%20EDA.png)
 
 
 # Project 3: Statistical Analysis Analyzing factors Influencing Credit Card Approval and Credit Limit
