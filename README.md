@@ -10,6 +10,8 @@ Data Science Projects Portfolio
   - Used Random Pairing Method to pair the matches randomly.
   
   
+  ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/SOCCER%203%20EDA.png)
+  
  ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/soccer%20eda.png)
 
 
