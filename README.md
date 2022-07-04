@@ -26,3 +26,6 @@ Data Science Projects Portfolio
   - Built Chi-Square model to see the relationship between different variables.
   - Built regression model that suggests that Income, Education level, Marital Status, and the number of Dependents are statistically significant while determing the         credit limit on a card
   - Performed hypothesis testing to find out why the credit card churning rates at some companies are significantly higher than the rest
+
+
+  ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/Credit%20Card%20EDA.png)
