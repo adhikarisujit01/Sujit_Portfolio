@@ -8,6 +8,8 @@ Data Science Projects Portfolio
   - Optimized Logistic Regression, Random Forest and KNN models to reach the best model. 
   - Logitstic Regression Model gave the highest accuracy of 87%, therefore decided to use this model to predict the result
   - Used Random Pairing Method to pair the matches randomly.
+  
+ ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/soccer%20eda.png)
 
 
 # Project 2: San Francisco Housing Market Analysis
