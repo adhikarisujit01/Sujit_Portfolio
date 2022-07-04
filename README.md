@@ -10,7 +10,7 @@ Data Science Projects Portfolio
   - Used Random Pairing Method to pair the matches randomly.
 
 
-# Project 2: Statistical Analysis Analyzing Factors Influencing Credit Card Approval and Credit Limit
+# Project 2: San Francisco Housing Market Analysis
   - Created a model to analyze the housing market scenario in SF Bay Area
   - Built Multivariate Regression Model to assess different variables that impact the housing prices
   - Performed Exploratory Data Analysis (EDA) to see a better picture of the correlation among different variables and the housing prices.
