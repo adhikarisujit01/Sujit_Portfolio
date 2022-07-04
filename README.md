@@ -11,8 +11,6 @@ Data Science Projects Portfolio
   
   
   ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/SOCCER%203%20EDA.png)
-  
- ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/soccer%20eda.png)
 
 
 # Project 2: San Francisco Housing Market Analysis
