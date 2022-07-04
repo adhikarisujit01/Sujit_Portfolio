@@ -9,6 +9,7 @@ Data Science Projects Portfolio
   - Logitstic Regression Model gave the highest accuracy of 87%, therefore decided to use this model to predict the result
   - Used Random Pairing Method to pair the matches randomly.
   
+  
  ![](https://github.com/adhikarisujit01/Sujit_Portfolio/blob/main/images/soccer%20eda.png)
 
 
