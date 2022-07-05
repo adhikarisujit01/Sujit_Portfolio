@@ -10,7 +10,7 @@ Data Science Projects Portfolio
   - Used Random Pairing Method to pair the matches randomly.
   
   
-  ![](/images/SOCCER%203%20EDA.png)
+  ![](images/SOCCER%203%20EDA.png)
 
 
 # Project 2: San Francisco Housing Market Analysis
@@ -21,7 +21,7 @@ Data Science Projects Portfolio
   - Performed trend analysis to compare and analyze the housing market during 2008 crash and 2020 market imbalance
   - Concluded that with the possible fed interest rate rising in late 2021 or early 2022, the demand for Bay Area Housing will eventually decrease, however, this would       also take some number of years to bring the prices to a market equilibrium point.
   
-  ![](/images/housing%20EDA.png)
+  ![](images/housing%20EDA.png)
 
 
 # Project 3: Statistical Analysis Analyzing factors Influencing Credit Card Approval and Credit Limit
@@ -31,4 +31,4 @@ Data Science Projects Portfolio
   - Performed hypothesis testing to find out why the credit card churning rates at some companies are significantly higher than the rest
 
 
-  ![](/images/Credit%20Card%20EDA.png)
+  ![](images/Credit%20Card%20EDA.png)
