@@ -34,7 +34,7 @@ Data Science Projects Portfolio
   ![](images/Credit%20Card%20EDA.png)
   
   
-  # Project 4: Airbnb in New York City
+ # Project 4: Airbnb in New York City
    - Performed quantitative analysis using Pandas for EDA
    - Designed interactive dashboards to tell the Airbnb story in NYC
    - Concluded that Airbnb should look to expand the product to Manhattan area for revenue optimization
