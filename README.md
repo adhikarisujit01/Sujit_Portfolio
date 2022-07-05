@@ -40,3 +40,4 @@ Data Science Projects Portfolio
    - Concluded that Airbnb should look to expand the product to Manhattan area for revenue optimization
      
      
+  ![](images/airbnb%20eda.png)
